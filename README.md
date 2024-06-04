@@ -6,11 +6,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/lalejandrors/news_app.git
+    git clone https://github.com/lalejandrors/hexa_products_app.git
 
 Switch to the repo folder
 
-    cd news_app
+    cd hexa_products_app
 
 Install all the dependencies using composer
 
@@ -33,9 +33,5 @@ Start the local development server
     php artisan serve
 
 You can now access the server at http://localhost:8000 or http://127.0.0.1:8000
-
-## Database seeding
-
-Run the sql inserts. Check files "categorias_202312061626" and "noticias_202312061625". It's important to run "categorias" first and then "noticias".
 
 ----------
